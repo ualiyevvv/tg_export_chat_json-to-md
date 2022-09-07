@@ -1,0 +1,30 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+.message {
+    margin-bottom: 10px;
+}
+.content {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    background-color: #82ccdd;
+    padding: 15px;
+    border-radius: 8px;
+}
+.system {
+    background-color: #78e08f;
+}
+img, video{
+    width: 300px;
+}
+.reply {
+    background-color: yellow;
+}
+.date {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
